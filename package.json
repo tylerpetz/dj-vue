@@ -1,5 +1,5 @@
 {
-  "name": "vue-dj-booth",
+  "name": "dj-vue",
   "description": "An application for streaming a live DJ set with a collection and requests",
   "version": "0.1.0",
   "private": true,
@@ -13,7 +13,9 @@
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^2.1.0",
     "core-js": "^3.6.4",
+    "dotenv": "^8.2.0",
     "tailwindcss": "^1.2.0",
+    "tmi.js": "^1.5.0",
     "vue": "^2.6.11",
     "vue-router": "^3.1.5",
     "vue-twitch-player": "^1.0.8",

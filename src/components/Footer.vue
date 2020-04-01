@@ -2,6 +2,7 @@
   <div>
     On Deck:<br/>
     Requested:<br/>
+    <slot />
   </div>
 </template>
 

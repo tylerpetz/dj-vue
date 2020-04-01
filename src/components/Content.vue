@@ -1,5 +1,5 @@
 <template>
-  <twitch-player channel="nickmercs" height="100%" width="100%" />
+  <twitch-player channel="hatfo" height="100%" width="100%" />
 </template>
 
 <script>
