@@ -11,7 +11,7 @@ export default {
   },
   getters: {
     records: state => {
-      // knock this down to an array of flattened objects
+      // flatten this array of objects a bit
       return state.records.map(record => {
         const { artists, cover_image: coverImage, genres, id, labels, styles, title, year } = record.basic_information
         return {
@@ -29,6 +29,7 @@ export default {
   },
   actions: {
     async getRecords ({ state, commit }, sort = false) {
+      // todo: create qs from an object
       let queryString = `?per_page=${state.pagination.per_page}&page=${state.pagination.page}`
 
       if (sort) {
