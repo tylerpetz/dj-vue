@@ -13,11 +13,10 @@ export default {
     records: state => {
       // knock this down to an array of flattened objects
       return state.records.map(record => {
-        // eslint-disable-next-line
-        const { artists, cover_image, genres, id, labels, styles, title, year } = record.basic_information
+        const { artists, cover_image: coverImage, genres, id, labels, styles, title, year } = record.basic_information
         return {
           artists: artists.map(artist => artist.name),
-          cover_image,
+          coverImage,
           genres,
           id,
           labels: labels.map(label => label.name),
@@ -45,7 +44,7 @@ export default {
           credentials: 'same-origin',
           headers: {
             'Content-Type': 'application/json',
-            Authorization: 'Discogs token=eeDZZmaVEISHMfRJifepmGjrdBkMOFmBcJlUfHLT'
+            Authorization: `Discogs token=${process.env.DISCOGS_TOKEN || ''}`
           },
           redirect: 'follow',
           referrerPolicy: 'no-referrer'
@@ -70,8 +69,7 @@ export default {
     //   try {
     //     const res = await axios.get(url, {
     //       headers: {
-    //         Authorization:
-    //           'Discogs token=eeDZZmaVEISHMfRJifepmGjrdBkMOFmBcJlUfHLT'
+    //          Authorization: `Discogs token=${process.env.DISCOGS_TOKEN || ''}`
     //       }
     //     })
     //     console.log(res)

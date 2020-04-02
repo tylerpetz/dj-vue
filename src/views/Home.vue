@@ -1,15 +1,15 @@
 <template>
-  <div class="h-screen max-h-screen w-full flex flex-col items-stretch">
-    <Header />
-    <div class="flex flex-row flex-no-wrap flex-grow">
-      <div :class="sidebarOpen ? 'w-3/4' : 'w-full'" class="flex flex-col justify-between">
+  <div class="h-screen max-h-screen overflow-hidden w-full flex flex-col items-stretch">
+    <!-- <Header /> -->
+    <div class="h-full flex flex-row flex-no-wrap">
+      <div class="w-full flex flex-col justify-between">
         <DJStream class="flex-grow" />
         <RecordStacks class="h-48 bg-black border-t border-green-500">
           {{ requests }}
         </RecordStacks>
       </div>
-      <div :class="sidebarOpen ? 'w-1/4' : 'w-0'" class="h-full bg-black border-l border-green-500">
-        <RecordCabinet @itemSelected="sendMessage" />
+      <div :class="sidebarOpen ? 'w-128' : 'w-0'" class="bg-black border-l border-green-500">
+        <RecordCabinet @itemSelected="sendMessage" class="max-h-full overflow-y-scroll" />
       </div>
     </div>
   </div>
@@ -18,7 +18,7 @@
 <script>
 import DJStream from '@/components/DJStream'
 import RecordStacks from '@/components/RecordStacks'
-import Header from '@/components/Header'
+// import Header from '@/components/Header'
 import RecordCabinet from '@/components/RecordCabinet'
 
 export default {
@@ -26,8 +26,8 @@ export default {
   components: {
     DJStream,
     RecordStacks,
-    Header,
     RecordCabinet
+    // Header
   },
   data () {
     return {
