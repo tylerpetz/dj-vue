@@ -1,6 +1,6 @@
 <template>
-  <div class="h-screen max-h-screen overflow-hidden w-full flex flex-col items-stretch">
-    <!-- <Header /> -->
+  <div class="h-screen max-h-screen overflow-hidden w-full flex flex-col items-stretch pt-20">
+    <Header />
     <div class="h-full flex flex-row flex-no-wrap">
       <div class="w-full flex flex-col justify-between">
         <DJStream class="flex-grow" />
@@ -18,7 +18,7 @@
 <script>
 import DJStream from '@/components/DJStream'
 import RecordStacks from '@/components/RecordStacks'
-// import Header from '@/components/Header'
+import Header from '@/components/Header'
 import RecordCabinet from '@/components/RecordCabinet'
 
 export default {
@@ -26,8 +26,8 @@ export default {
   components: {
     DJStream,
     RecordStacks,
-    RecordCabinet
-    // Header
+    RecordCabinet,
+    Header
   },
   data () {
     return {
