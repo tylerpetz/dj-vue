@@ -6,8 +6,6 @@ import store from './store'
 // include tailwindcss styles
 import './assets/styles/index.css'
 
-require('dotenv').config()
-
 new Vue({
   router,
   store,

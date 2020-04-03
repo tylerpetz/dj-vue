@@ -45,7 +45,7 @@ export default {
           credentials: 'same-origin',
           headers: {
             'Content-Type': 'application/json',
-            Authorization: `Discogs token=${process.env.DISCOGS_TOKEN || ''}`
+            Authorization: `Discogs token=${process.env.VUE_APP_DISCOGS_TOKEN || ''}`
           },
           redirect: 'follow',
           referrerPolicy: 'no-referrer'
