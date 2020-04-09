@@ -22,9 +22,11 @@ export default {
   },
   methods: {
     applyFilter (filter) {
-      this.selectedFilter = {
-        type: this.displayModal,
-        value: filter
+      if (filter) {
+        this.selectedFilter = {
+          type: this.displayModal,
+          value: filter
+        }
       }
       this.displayModal = ''
     }
@@ -107,13 +109,17 @@ export default {
 </script>
 
 <template>
-  <div class="py-6 px-2">
-    <div class="flex flex-row justify-between items-center">
+  <div class="h-full py-6 px-2">
+    <div class="flex flex-row items-center justify-end px-2 mb-8">
       <span>sort by: artist, album title, year</span>
-      <span>filter by: <strong @click="displayModal = 'genres'">genre</strong>, <strong @click="displayModal = 'labels'">label</strong>, <strong @click="displayModal = 'styles'">styles</strong></span>
-      <SelectModal :options="options" @applyFilter="applyFilter" />
+      <span class="ml-8">filter by:
+        <strong @click="displayModal = 'genres'">genre</strong>,
+        <strong @click="displayModal = 'styles'">subgenre</strong>,
+        <strong @click="displayModal = 'labels'">label</strong>
+      </span>
+      <SelectModal class="" :class="displayModal ? 'opacity-100  transition duration-300 ease-in-out' : 'opacity-0 pointer-events-none'" :options="options" :type="displayModal" @applyFilter="applyFilter" />
     </div>
-    <div class="flex flex-row flex-wrap items-stretch justify-between">
+    <div class="flex flex-row flex-wrap items-stretch justify-start">
       <template v-for="(record, index) in filteredRecords">
         <Record @click="$emit('itemSelected', record.id)" :record="record" :key="record.id + index" />
       </template>

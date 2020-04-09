@@ -1,5 +1,5 @@
 <template>
-  <header class="bg-white w-full p-4 flex flex-row flex-no-wrap justify-between items-center absolute inset-x-0 top-0">
+  <header class="w-full p-4 flex flex-row flex-no-wrap justify-between items-center absolute inset-x-0 top-0">
     <Logo />
     <!-- <Menu /> -->
   </header>

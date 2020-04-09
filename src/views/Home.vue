@@ -1,6 +1,6 @@
 <template>
-  <div class="h-screen max-h-screen overflow-hidden w-full flex flex-col items-stretch pt-20">
-    <Header />
+  <div class="h-screen max-h-screen overflow-hidden w-full flex flex-col items-stretch">
+    <Logo />
     <div class="h-full flex flex-row flex-no-wrap">
       <!-- <div class="w-full flex flex-col justify-between">
         <DJStream class="flex-grow" />
@@ -8,7 +8,7 @@
           {{ requests }}
         </RecordStacks>
       </div> -->
-      <div class="w-full bg-black border-l border-green-500">
+      <div class="w-full h-full">
         <RecordCabinet @itemSelected="sendMessage" class="max-h-full overflow-y-scroll" />
       </div>
     </div>
@@ -18,7 +18,7 @@
 <script>
 // import DJStream from '@/components/DJStream'
 // import RecordStacks from '@/components/RecordStacks'
-import Header from '@/components/Header'
+import Logo from '@/components/Logo'
 import RecordCabinet from '@/components/RecordCabinet'
 
 export default {
@@ -27,7 +27,7 @@ export default {
     // DJStream,
     // RecordStacks,
     RecordCabinet,
-    Header
+    Logo
   },
   data () {
     return {
