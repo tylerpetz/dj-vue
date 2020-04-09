@@ -2,13 +2,13 @@
   <div class="h-screen max-h-screen overflow-hidden w-full flex flex-col items-stretch pt-20">
     <Header />
     <div class="h-full flex flex-row flex-no-wrap">
-      <div class="w-full flex flex-col justify-between">
+      <!-- <div class="w-full flex flex-col justify-between">
         <DJStream class="flex-grow" />
         <RecordStacks class="h-48 bg-black border-t border-green-500">
           {{ requests }}
         </RecordStacks>
-      </div>
-      <div :class="sidebarOpen ? 'w-128' : 'w-0'" class="bg-black border-l border-green-500">
+      </div> -->
+      <div class="w-full bg-black border-l border-green-500">
         <RecordCabinet @itemSelected="sendMessage" class="max-h-full overflow-y-scroll" />
       </div>
     </div>
@@ -16,16 +16,16 @@
 </template>
 
 <script>
-import DJStream from '@/components/DJStream'
-import RecordStacks from '@/components/RecordStacks'
+// import DJStream from '@/components/DJStream'
+// import RecordStacks from '@/components/RecordStacks'
 import Header from '@/components/Header'
 import RecordCabinet from '@/components/RecordCabinet'
 
 export default {
   name: 'Home',
   components: {
-    DJStream,
-    RecordStacks,
+    // DJStream,
+    // RecordStacks,
     RecordCabinet,
     Header
   },
@@ -36,9 +36,6 @@ export default {
       sidebarOpen: true,
       accessToken: null
     }
-  },
-  async mounted () {
-    this.$store.dispatch('records/getRecords')
   },
   methods: {
     sendMessage (msg) {
