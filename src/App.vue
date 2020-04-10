@@ -10,7 +10,7 @@ export default {
   },
   methods: {
     sendMessage (msg) {
-      alert('cool', msg)
+      console.log('cool', msg)
     }
   }
 }
