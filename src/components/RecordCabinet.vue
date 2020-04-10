@@ -17,7 +17,8 @@ export default {
     return {
       releases: recordData.releases,
       displayModal: '',
-      selectedFilter: ''
+      selectedFilter: '',
+      filters: ['genre', 'subgenre', 'label']
     }
   },
   methods: {
@@ -52,7 +53,7 @@ export default {
       if (!this.selectedFilter) return this.records
       return this.records.filter(record => record[this.selectedFilter.type].includes(this.selectedFilter.value))
     },
-    genres () {
+    genre () {
       if (this.records.length === 0) return []
       let genres = []
       this.records.forEach(record => {
@@ -68,7 +69,7 @@ export default {
       })
       return sortObjectByCount(genreObj)
     },
-    styles () {
+    subgenre () {
       if (this.records.length === 0) return []
       let styles = []
       this.records.forEach(record => {
@@ -84,7 +85,7 @@ export default {
       })
       return sortObjectByCount(styleObj)
     },
-    labels () {
+    label () {
       if (this.records.length === 0) return []
       let labels = []
       this.records.forEach(record => {
@@ -109,20 +110,22 @@ export default {
 </script>
 
 <template>
-  <div class="h-full py-6 px-2">
+  <div class="h-full w-full py-6 px-2">
     <div class="flex flex-row items-center justify-end px-2 mb-8">
       <span>sort by: artist, album title, year</span>
       <span class="ml-8">filter by:
-        <strong @click="displayModal = 'genres'">genre</strong>,
-        <strong @click="displayModal = 'styles'">subgenre</strong>,
-        <strong @click="displayModal = 'labels'">label</strong>
+        <template v-for="filter in filters">
+          <strong :key="filter" class="hover:text-green-300 cursor-pointer" :class="selectedFilter && selectedFilter.type === filter ? 'text-green-500' : ''" @click="displayModal = filter">
+            {{filter}}<span v-if="selectedFilter && selectedFilter.type === filter">{{ selectedFilter.value }}</span>
+          </strong>
+        </template>
       </span>
-      <SelectModal class="" :class="displayModal ? 'opacity-100  transition duration-300 ease-in-out' : 'opacity-0 pointer-events-none'" :options="options" :type="displayModal" @applyFilter="applyFilter" />
     </div>
     <div class="flex flex-row flex-wrap items-stretch justify-start">
       <template v-for="(record, index) in filteredRecords">
         <Record @click="$emit('itemSelected', record.id)" :record="record" :key="record.id + index" />
       </template>
     </div>
+    <SelectModal class="" :class="displayModal ? 'opacity-100  transition duration-300 ease-in-out' : 'opacity-0 pointer-events-none'" :options="options" :type="displayModal" @applyFilter="applyFilter" />
   </div>
 </template>
