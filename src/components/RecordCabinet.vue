@@ -53,7 +53,6 @@ export default {
     },
     filteredRecords () {
       if (!this.selectedFilter.value) return this.records
-
       return this.records.filter(record => record[this.selectedFilter.type].includes(this.selectedFilter.value))
     },
     options () {
@@ -126,7 +125,7 @@ export default {
     </div>
     <div class="flex flex-row flex-wrap items-stretch justify-start">
       <template v-for="(record, index) in filteredRecords">
-        <Record @click="$emit('itemSelected', record.id)" :record="record" :key="record.id + index" />
+        <Record :record="record" :key="record.id + index" @itemSelected="$emit('itemSelected', $event)" />
       </template>
     </div>
     <SelectModal :options="options" :type="selectedFilter.type" @applyFilter="applyFilter" />

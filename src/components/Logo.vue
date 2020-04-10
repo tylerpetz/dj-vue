@@ -1,3 +1,14 @@
+<script>
+export default {
+  name: 'Logo',
+  data () {
+    return {
+      hoverLogo: false
+    }
+  }
+}
+</script>
+
 <template>
   <div class="flex flex-row items-center absolute top-0 left-0 mt-4 ml-4 z-10" @mouseover="hoverLogo = true" @mouseout="hoverLogo = false">
     <h1 class="h-12 w-12 bg-green-500 flex items-center justify-center text-blue-500 text-xs font-semibold mr-1 z-10 ease-out duration-300 transition-transform transform shadow" :class="hoverLogo ? '-translate-x-1' : 'translate-x-0'">DJ Vue</h1>
@@ -10,14 +21,3 @@
     </div>
   </div>
 </template>
-
-<script>
-export default {
-  name: 'Logo',
-  data () {
-    return {
-      hoverLogo: false
-    }
-  }
-}
-</script>
