@@ -11,7 +11,7 @@
       "instance_id": 413847726,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Post Rock"
         ],
@@ -68,7 +68,7 @@
       "instance_id": 413816952,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Art Rock"
         ],
         "labels": [
@@ -124,7 +124,7 @@
       "instance_id": 413617634,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Experimental",
           "Ethereal"
@@ -184,7 +184,7 @@
       "instance_id": 413617568,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Ethereal"
         ],
         "labels": [
@@ -242,7 +242,7 @@
       "instance_id": 413810000,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Shoegaze",
           "Art Rock",
           "Indie Rock"
@@ -299,7 +299,7 @@
       "instance_id": 102967075,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -353,7 +353,7 @@
       "instance_id": 413840646,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Pop",
           "Art Rock",
           "Psychedelic Rock"
@@ -410,7 +410,7 @@
       "instance_id": 413810102,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Experimental",
           "Alternative Rock"
@@ -467,7 +467,7 @@
       "instance_id": 102967080,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Rock & Roll",
           "Pop Rock"
         ],
@@ -522,7 +522,7 @@
       "instance_id": 102967037,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Indie Rock"
         ],
@@ -577,7 +577,7 @@
       "instance_id": 102967092,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -633,7 +633,7 @@
       "instance_id": 102967058,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Indie Rock"
         ],
@@ -692,7 +692,7 @@
       "instance_id": 257185895,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -753,7 +753,7 @@
       "instance_id": 102967082,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -823,7 +823,7 @@
       "instance_id": 413619225,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Black Metal",
           "Shoegaze",
           "Post Rock"
@@ -880,7 +880,7 @@
       "instance_id": 413855961,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock"
         ],
         "labels": [
@@ -959,7 +959,7 @@
       "instance_id": 413615417,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Art Rock",
           "Experimental",
           "Indie Rock"
@@ -1023,7 +1023,7 @@
       "instance_id": 257185743,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Folk Rock",
           "Acoustic",
           "Punk",
@@ -1084,7 +1084,7 @@
       "instance_id": 413848950,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Folk Rock"
         ],
         "labels": [
@@ -1140,7 +1140,7 @@
       "instance_id": 413848865,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "Asthmatic Kitty Records",
@@ -1192,7 +1192,7 @@
       "instance_id": 102966962,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Folk Rock",
           "Acoustic",
           "Experimental"
@@ -1258,7 +1258,7 @@
       "instance_id": 102967056,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Country Rock",
           "Classic Rock"
         ],
@@ -1314,7 +1314,7 @@
       "instance_id": 413852688,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Contemporary Jazz",
           "Spoken Word"
         ],
@@ -1371,7 +1371,7 @@
       "instance_id": 257185111,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "Atlantic",
@@ -1425,7 +1425,7 @@
       "instance_id": 102966969,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Art Rock"
         ],
@@ -1482,7 +1482,7 @@
       "instance_id": 102967068,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Indie Pop"
         ],
@@ -1558,7 +1558,7 @@
       "instance_id": 102967088,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Art Rock",
           "Psychedelic Rock",
           "Prog Rock",
@@ -1623,7 +1623,7 @@
       "instance_id": 413617956,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock"
         ],
         "labels": [
@@ -1686,7 +1686,7 @@
       "instance_id": 102967017,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Folk Rock",
           "Alternative Rock",
           "Pop Rock",
@@ -1764,7 +1764,7 @@
       "instance_id": 413852963,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Rock & Roll"
         ],
         "labels": [
@@ -1826,7 +1826,7 @@
       "instance_id": 413853037,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "ATO Records",
@@ -1879,7 +1879,7 @@
       "instance_id": 413838310,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "Bad Boy Entertainment",
@@ -1940,7 +1940,7 @@
       "instance_id": 102967064,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock"
         ],
         "labels": [
@@ -1996,7 +1996,7 @@
       "instance_id": 102967055,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Blues Rock"
         ],
@@ -2067,7 +2067,7 @@
       "instance_id": 102967030,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Electro"
         ],
         "labels": [
@@ -2122,7 +2122,7 @@
       "instance_id": 413618613,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -2176,7 +2176,7 @@
       "instance_id": 413618619,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -2231,7 +2231,7 @@
       "instance_id": 413618596,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Indie Rock"
         ],
@@ -2286,7 +2286,7 @@
       "instance_id": 130683735,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -2340,7 +2340,7 @@
       "instance_id": 130683742,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Post-Punk"
         ],
@@ -2397,7 +2397,7 @@
       "instance_id": 413811945,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Hardcore",
           "Punk"
         ],
@@ -2454,7 +2454,7 @@
       "instance_id": 102966994,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Pop Rock",
           "Rock & Roll",
           "Psychedelic"
@@ -2537,7 +2537,7 @@
       "instance_id": 413842053,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock"
         ],
         "labels": [
@@ -2594,7 +2594,7 @@
       "instance_id": 102966985,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Experimental"
         ],
@@ -2653,7 +2653,7 @@
       "instance_id": 413834186,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Psychedelic Rock",
           "Alternative Rock",
           "Ethereal",
@@ -2712,7 +2712,7 @@
       "instance_id": 102967000,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Surf",
           "Pop Rock"
         ],
@@ -2769,7 +2769,7 @@
       "instance_id": 102966983,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Vocal"
         ],
         "labels": [
@@ -2825,7 +2825,7 @@
       "instance_id": 102967045,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Surf",
           "Pop Rock"
         ],
@@ -2891,7 +2891,7 @@
       "instance_id": 102966988,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Surf"
         ],
         "labels": [
@@ -2955,7 +2955,7 @@
       "instance_id": 102967051,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Psychedelic Rock",
           "Pop Rock"
         ],
@@ -3028,7 +3028,7 @@
       "instance_id": 413810241,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -3082,7 +3082,7 @@
       "instance_id": 413810302,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -3137,7 +3137,7 @@
       "instance_id": 413830705,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Shoegaze"
         ],
@@ -3194,7 +3194,7 @@
       "instance_id": 130729683,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -3248,7 +3248,7 @@
       "instance_id": 413617387,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Garage Rock",
           "Lo-Fi",
           "Indie Rock"
@@ -3305,7 +3305,7 @@
       "instance_id": 413846584,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -3359,7 +3359,7 @@
       "instance_id": 413617421,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -3423,7 +3423,7 @@
       "instance_id": 413851020,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Psychedelic Rock",
           "Garage Rock"
         ],
@@ -3479,7 +3479,7 @@
       "instance_id": 130683831,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Psychedelic Rock",
           "Garage Rock"
         ],
@@ -3534,7 +3534,7 @@
       "instance_id": 413851155,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Garage Rock"
         ],
         "labels": [
@@ -3589,7 +3589,7 @@
       "instance_id": 413851734,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Psychedelic Rock"
         ],
         "labels": [
@@ -3644,7 +3644,7 @@
       "instance_id": 413831209,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Garage Rock",
           "Psychedelic Rock"
         ],
@@ -3709,7 +3709,7 @@
       "instance_id": 413851499,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Garage Rock",
           "Psychedelic Rock",
           "Experimental"
@@ -3766,7 +3766,7 @@
       "instance_id": 413851118,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Psychedelic Rock",
           "Garage Rock",
           "Noise"
@@ -3831,7 +3831,7 @@
       "instance_id": 102966947,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "New Wave",
           "Synth-pop"
         ],
@@ -3887,7 +3887,7 @@
       "instance_id": 102966968,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Pop Rock"
         ],
         "labels": [
@@ -3943,7 +3943,7 @@
       "instance_id": 413840996,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Shoegaze"
         ],
         "labels": [
@@ -3998,7 +3998,7 @@
       "instance_id": 413617848,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Folk Rock"
         ],
         "labels": [
@@ -4057,7 +4057,7 @@
       "instance_id": 102966981,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Country"
         ],
         "labels": [
@@ -4113,7 +4113,7 @@
       "instance_id": 413617723,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Folk Rock"
         ],
         "labels": [
@@ -4167,7 +4167,7 @@
       "instance_id": 413836262,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Big Band",
           "Contemporary"
         ],
@@ -4242,7 +4242,7 @@
       "instance_id": 413619047,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Deep House"
         ],
         "labels": [
@@ -4324,7 +4324,7 @@
       "instance_id": 413836780,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Conscious"
         ],
         "labels": [
@@ -4387,7 +4387,7 @@
       "instance_id": 413616281,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Modern Classical",
           "Abstract",
           "Minimal",
@@ -4464,7 +4464,7 @@
       "instance_id": 102967038,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "Columbia",
@@ -4527,7 +4527,7 @@
       "instance_id": 102966975,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Folk Rock",
           "Blues Rock",
           "Classic Rock",
@@ -4597,7 +4597,7 @@
       "instance_id": 102967007,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Folk Rock",
           "Classic Rock"
         ],
@@ -4663,7 +4663,7 @@
       "instance_id": 102967012,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Modal",
           "Cool Jazz"
         ],
@@ -4729,7 +4729,7 @@
       "instance_id": 413618992,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Modal"
         ],
         "labels": [
@@ -4796,7 +4796,7 @@
       "instance_id": 102966946,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Post Rock",
           "Experimental"
         ],
@@ -4851,7 +4851,7 @@
       "instance_id": 102966990,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -4906,7 +4906,7 @@
       "instance_id": 413844302,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -4962,7 +4962,7 @@
       "instance_id": 102967046,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "Dangerbird Records",
@@ -5016,7 +5016,7 @@
       "instance_id": 413856041,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock"
         ],
         "labels": [
@@ -5071,7 +5071,7 @@
       "instance_id": 413849939,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Acoustic",
           "Folk"
         ],
@@ -5129,7 +5129,7 @@
       "instance_id": 413836382,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "Dead Oceans",
@@ -5181,7 +5181,7 @@
       "instance_id": 413845433,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Shoegaze",
           "Alternative Rock",
           "Dream Pop"
@@ -5237,7 +5237,7 @@
       "instance_id": 257184336,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Gangsta",
           "G-Funk"
         ],
@@ -5294,7 +5294,7 @@
       "instance_id": 413843333,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "Decca",
@@ -5347,7 +5347,7 @@
       "instance_id": 130683640,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Leftfield",
           "Alternative Rock",
           "Electro",
@@ -5407,7 +5407,7 @@
       "instance_id": 413832700,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Leftfield",
           "Electro",
           "Disco"
@@ -5464,7 +5464,7 @@
       "instance_id": 413830220,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Punk",
           "Alternative Rock"
         ],
@@ -5521,7 +5521,7 @@
       "instance_id": 257186739,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Folk Rock"
         ],
@@ -5579,7 +5579,7 @@
       "instance_id": 257186666,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Alternative Rock"
         ],
@@ -5638,7 +5638,7 @@
       "instance_id": 102967047,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Experimental"
         ],
         "labels": [
@@ -5694,7 +5694,7 @@
       "instance_id": 413816734,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Leftfield",
           "House",
           "Electro",
@@ -5771,7 +5771,7 @@
       "instance_id": 413614350,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -5827,7 +5827,7 @@
       "instance_id": 102967044,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Psychedelic Rock",
           "Experimental"
         ],
@@ -5885,7 +5885,7 @@
       "instance_id": 102967067,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Experimental"
         ],
         "labels": [
@@ -5941,7 +5941,7 @@
       "instance_id": 413613816,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -5998,7 +5998,7 @@
       "instance_id": 413842479,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -6052,7 +6052,7 @@
       "instance_id": 413619125,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Experimental"
         ],
         "labels": [
@@ -6106,7 +6106,7 @@
       "instance_id": 257185382,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "Domino",
@@ -6158,7 +6158,7 @@
       "instance_id": 257185439,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Lo-Fi",
           "Indie Rock",
           "Folk Rock"
@@ -6214,7 +6214,7 @@
       "instance_id": 413841509,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Post-Punk"
         ],
         "labels": [
@@ -6268,7 +6268,7 @@
       "instance_id": 413858688,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Pop",
           "Indie Rock"
         ],
@@ -6324,7 +6324,7 @@
       "instance_id": 102967034,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Abstract",
           "Experimental"
         ],
@@ -6389,7 +6389,7 @@
       "instance_id": 413619192,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Punk"
         ],
         "labels": [
@@ -6450,7 +6450,7 @@
       "instance_id": 413847605,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Post Rock",
           "Psychedelic Rock",
@@ -6520,7 +6520,7 @@
       "instance_id": 413847983,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Garage Rock",
           "Psychedelic Rock"
         ],
@@ -6577,7 +6577,7 @@
       "instance_id": 102967065,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "Elektra",
@@ -6640,7 +6640,7 @@
       "instance_id": 413847805,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Garage Rock"
         ],
         "labels": [
@@ -6704,7 +6704,7 @@
       "instance_id": 413839175,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Contemporary R&B",
           "Neo Soul",
           "Conscious"
@@ -6761,7 +6761,7 @@
       "instance_id": 102966970,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -6815,7 +6815,7 @@
       "instance_id": 413852754,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Emo",
           "Punk"
         ],
@@ -6870,7 +6870,7 @@
       "instance_id": 102967006,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -6925,7 +6925,7 @@
       "instance_id": 102967022,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -6987,7 +6987,7 @@
       "instance_id": 102967031,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "New Wave",
           "Post-Punk"
         ],
@@ -7044,7 +7044,7 @@
       "instance_id": 413618357,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Blues Rock",
           "Rock & Roll",
           "Southern Rock",
@@ -7119,7 +7119,7 @@
       "instance_id": 413616148,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Electric Blues",
           "Delta Blues"
         ],
@@ -7180,7 +7180,7 @@
       "instance_id": 102966971,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Acoustic"
         ],
         "labels": [
@@ -7236,7 +7236,7 @@
       "instance_id": 102967078,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Country",
           "Folk",
           "Acoustic"
@@ -7294,7 +7294,7 @@
       "instance_id": 102967004,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Surf",
           "Psychedelic Rock",
           "Lo-Fi",
@@ -7352,7 +7352,7 @@
       "instance_id": 102967025,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Indie Rock"
         ],
@@ -7408,7 +7408,7 @@
       "instance_id": 413852813,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -7462,7 +7462,7 @@
       "instance_id": 102967059,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -7517,7 +7517,7 @@
       "instance_id": 102967083,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -7571,7 +7571,7 @@
       "instance_id": 102967027,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Blues Rock"
         ],
         "labels": [
@@ -7637,7 +7637,7 @@
       "instance_id": 102967018,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Lo-Fi",
           "Synth-pop",
           "Ethereal",
@@ -7712,7 +7712,7 @@
       "instance_id": 102967001,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Soul"
         ],
         "labels": [
@@ -7778,7 +7778,7 @@
       "instance_id": 102967002,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -7840,7 +7840,7 @@
       "instance_id": 102967089,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Indie Rock"
         ],
@@ -7912,7 +7912,7 @@
       "instance_id": 102967043,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Emo",
           "Indie Rock"
         ],
@@ -7969,7 +7969,7 @@
       "instance_id": 413834838,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Experimental"
         ],
@@ -8035,7 +8035,7 @@
       "instance_id": 413846500,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Space Rock",
           "Psychedelic Rock"
         ],
@@ -8093,7 +8093,7 @@
       "instance_id": 102966991,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -8147,7 +8147,7 @@
       "instance_id": 130683384,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -8201,7 +8201,7 @@
       "instance_id": 102967026,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -8263,7 +8263,7 @@
       "instance_id": 259665824,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Downtempo",
           "Dubstep"
         ],
@@ -8317,7 +8317,7 @@
       "instance_id": 413848793,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Hardcore",
           "Punk"
         ],
@@ -8383,7 +8383,7 @@
       "instance_id": 413853521,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Pop Rock"
         ],
@@ -8443,7 +8443,7 @@
       "instance_id": 413845886,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -8499,7 +8499,7 @@
       "instance_id": 413853357,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Stoner Rock",
           "Surf",
           "Punk",
@@ -8574,7 +8574,7 @@
       "instance_id": 413851812,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Psychedelic Rock",
           "Experimental",
           "Downtempo"
@@ -8641,7 +8641,7 @@
       "instance_id": 413835792,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -8697,7 +8697,7 @@
       "instance_id": 102967071,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Folk Rock",
           "Folk",
           "Bluegrass"
@@ -8755,7 +8755,7 @@
       "instance_id": 413617242,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Contemporary R&B",
           "Funk",
           "Neo Soul",
@@ -8812,7 +8812,7 @@
       "instance_id": 102967028,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Hip Hop"
         ],
         "labels": [
@@ -8870,7 +8870,7 @@
       "instance_id": 102966987,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Trip Hop",
           "Downtempo"
         ],
@@ -8933,7 +8933,7 @@
       "instance_id": 413617487,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Grindcore",
           "Crust"
         ],
@@ -9004,7 +9004,7 @@
       "instance_id": 413841349,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Post-Punk"
         ],
         "labels": [
@@ -9058,7 +9058,7 @@
       "instance_id": 413841279,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Post-Punk"
         ],
         "labels": [
@@ -9112,7 +9112,7 @@
       "instance_id": 413859058,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Rock & Roll"
         ],
@@ -9168,7 +9168,7 @@
       "instance_id": 413814871,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Pop Rock"
         ],
         "labels": [
@@ -9233,7 +9233,7 @@
       "instance_id": 413617997,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Free Jazz",
           "Post Bop",
           "Modal"
@@ -9293,7 +9293,7 @@
       "instance_id": 413814131,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Hard Rock",
           "Garage Rock"
         ],
@@ -9349,7 +9349,7 @@
       "instance_id": 413814176,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Hard Rock",
           "Garage Rock",
           "Stoner Rock"
@@ -9405,7 +9405,7 @@
       "instance_id": 257186138,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Downtempo"
         ],
         "labels": [
@@ -9462,7 +9462,7 @@
       "instance_id": 257186710,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock"
         ],
         "labels": [
@@ -9518,7 +9518,7 @@
       "instance_id": 413852235,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Alternative Rock"
         ],
@@ -9602,7 +9602,7 @@
       "instance_id": 102966959,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Pop Rock"
         ],
@@ -9658,7 +9658,7 @@
       "instance_id": 102967019,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Reggae",
           "Roots Reggae"
         ],
@@ -9715,7 +9715,7 @@
       "instance_id": 413852329,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Dub",
           "Roots Reggae"
         ],
@@ -9797,7 +9797,7 @@
       "instance_id": 413810612,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Noise"
         ],
@@ -9854,7 +9854,7 @@
       "instance_id": 413810491,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Alternative Rock"
         ],
@@ -9910,7 +9910,7 @@
       "instance_id": 413813329,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -9964,7 +9964,7 @@
       "instance_id": 413810745,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock"
         ],
         "labels": [
@@ -10020,7 +10020,7 @@
       "instance_id": 413838526,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Folk"
         ],
         "labels": [
@@ -10074,7 +10074,7 @@
       "instance_id": 413845494,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Synth-pop"
         ],
         "labels": [
@@ -10128,7 +10128,7 @@
       "instance_id": 413849000,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Soul",
           "Contemporary R&B",
           "Neo Soul"
@@ -10187,7 +10187,7 @@
       "instance_id": 413852011,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Conscious"
         ],
         "labels": [
@@ -10243,7 +10243,7 @@
       "instance_id": 102966999,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock"
         ],
         "labels": [
@@ -10306,7 +10306,7 @@
       "instance_id": 413840433,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "Jurassic Pop",
@@ -10361,7 +10361,7 @@
       "instance_id": 413815987,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Lo-Fi",
           "Indie Rock"
         ],
@@ -10416,7 +10416,7 @@
       "instance_id": 413815653,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Folk Rock",
           "Lo-Fi",
           "Techno",
@@ -10477,7 +10477,7 @@
       "instance_id": 413834937,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Post-Punk",
           "Shoegaze",
@@ -10543,7 +10543,7 @@
       "instance_id": 102966963,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Folk Rock",
           "Acoustic",
           "Lo-Fi",
@@ -10601,7 +10601,7 @@
       "instance_id": 413809915,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Experimental",
           "Indie Rock",
           "Shoegaze"
@@ -10657,7 +10657,7 @@
       "instance_id": 413815815,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Lo-Fi",
           "Shoegaze",
           "Ethereal"
@@ -10713,7 +10713,7 @@
       "instance_id": 413856523,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Electro"
         ],
         "labels": [
@@ -10769,7 +10769,7 @@
       "instance_id": 102967042,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Rock & Roll",
           "Electro",
           "Punk"
@@ -10828,7 +10828,7 @@
       "instance_id": 413813682,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Contemporary Jazz",
           "Ambient",
           "Spoken Word",
@@ -10891,7 +10891,7 @@
       "instance_id": 413816175,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Psychedelic Rock"
         ],
         "labels": [
@@ -10957,7 +10957,7 @@
       "instance_id": 413836612,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock"
         ],
         "labels": [
@@ -11014,7 +11014,7 @@
       "instance_id": 102966993,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Comedy"
         ],
         "labels": [
@@ -11067,7 +11067,7 @@
       "instance_id": 413835514,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Breakbeat",
           "Leftfield",
           "Downtempo"
@@ -11135,7 +11135,7 @@
       "instance_id": 413847138,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock"
         ],
         "labels": [
@@ -11191,7 +11191,7 @@
       "instance_id": 413843142,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -11247,7 +11247,7 @@
       "instance_id": 102966974,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Blues Rock"
         ],
         "labels": [
@@ -11301,7 +11301,7 @@
       "instance_id": 413837460,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "New Wave",
           "Synth-pop"
         ],
@@ -11367,7 +11367,7 @@
       "instance_id": 257185173,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Country Rock"
         ],
@@ -11422,7 +11422,7 @@
       "instance_id": 413613448,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Lo-Fi",
           "Indie Rock"
         ],
@@ -11479,7 +11479,7 @@
       "instance_id": 102967041,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Trip Hop"
         ],
@@ -11535,7 +11535,7 @@
       "instance_id": 413856700,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -11590,7 +11590,7 @@
       "instance_id": 413617144,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Lo-Fi",
           "Indie Rock"
         ],
@@ -11648,7 +11648,7 @@
       "instance_id": 102966986,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -11704,7 +11704,7 @@
       "instance_id": 413856841,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Experimental"
         ],
@@ -11761,7 +11761,7 @@
       "instance_id": 413842558,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Garage Rock",
           "Indie Rock"
         ],
@@ -11817,7 +11817,7 @@
       "instance_id": 102966989,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Lo-Fi",
           "Indie Rock"
         ],
@@ -11873,7 +11873,7 @@
       "instance_id": 413856793,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -11927,7 +11927,7 @@
       "instance_id": 102967077,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Stoner Rock"
         ],
@@ -11983,7 +11983,7 @@
       "instance_id": 413817245,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Indie Rock"
         ],
@@ -12041,7 +12041,7 @@
       "instance_id": 413833797,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Leftfield",
           "Downtempo",
           "Indie Pop",
@@ -12103,7 +12103,7 @@
       "instance_id": 413857113,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -12158,7 +12158,7 @@
       "instance_id": 413616845,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Indie Rock"
         ],
@@ -12213,7 +12213,7 @@
       "instance_id": 413857075,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -12268,7 +12268,7 @@
       "instance_id": 413840352,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "Matador",
@@ -12332,7 +12332,7 @@
       "instance_id": 413857036,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -12420,7 +12420,7 @@
       "instance_id": 413840227,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Indie Rock"
         ],
@@ -12485,7 +12485,7 @@
       "instance_id": 102967061,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Krautrock"
         ],
@@ -12551,7 +12551,7 @@
       "instance_id": 102967081,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Classic Rock"
         ],
         "labels": [
@@ -12606,7 +12606,7 @@
       "instance_id": 102966978,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Country Rock",
           "Classic Rock"
         ],
@@ -12662,7 +12662,7 @@
       "instance_id": 102966972,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Mod",
           "Arena Rock",
           "Classic Rock"
@@ -12718,7 +12718,7 @@
       "instance_id": 102966965,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Hard Rock",
           "Prog Rock"
         ],
@@ -12775,7 +12775,7 @@
       "instance_id": 413837051,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Lo-Fi",
           "Indie Rock"
@@ -12833,7 +12833,7 @@
       "instance_id": 413837198,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Lo-Fi"
         ],
@@ -12889,7 +12889,7 @@
       "instance_id": 413847001,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -12945,7 +12945,7 @@
       "instance_id": 102966955,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -12999,7 +12999,7 @@
       "instance_id": 413847081,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -13056,7 +13056,7 @@
       "instance_id": 413846879,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -13110,7 +13110,7 @@
       "instance_id": 413616984,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Experimental",
           "Techno",
           "House",
@@ -13168,7 +13168,7 @@
       "instance_id": 413810411,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Art Rock",
           "Indie Rock"
         ],
@@ -13225,7 +13225,7 @@
       "instance_id": 130683408,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -13288,7 +13288,7 @@
       "instance_id": 102967010,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "Metal Face",
@@ -13347,7 +13347,7 @@
       "instance_id": 413853184,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "New Wave",
           "Synth-pop"
         ],
@@ -13404,7 +13404,7 @@
       "instance_id": 102967060,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -13459,7 +13459,7 @@
       "instance_id": 413841592,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Psychedelic Rock",
           "Indie Rock",
           "Folk Rock"
@@ -13517,7 +13517,7 @@
       "instance_id": 413840716,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -13571,7 +13571,7 @@
       "instance_id": 102967024,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Instrumental",
           "Cut-up/DJ",
           "Downtempo"
@@ -13646,7 +13646,7 @@
       "instance_id": 102967091,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -13703,7 +13703,7 @@
       "instance_id": 413850548,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Psychedelic Rock",
           "Indie Rock"
         ],
@@ -13759,7 +13759,7 @@
       "instance_id": 102967008,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "House",
           "Electro",
           "Synth-pop"
@@ -13816,7 +13816,7 @@
       "instance_id": 102967072,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Psychedelic Rock"
         ],
@@ -13875,7 +13875,7 @@
       "instance_id": 102967016,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Electro",
           "Noise",
           "Indie Rock"
@@ -13935,7 +13935,7 @@
       "instance_id": 257186192,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Pop",
           "Lo-Fi"
         ],
@@ -14015,7 +14015,7 @@
       "instance_id": 102967054,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Funk",
           "Soul"
         ],
@@ -14071,7 +14071,7 @@
       "instance_id": 413845318,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Shoegaze",
           "Dream Pop"
@@ -14129,7 +14129,7 @@
       "instance_id": 413615806,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -14193,7 +14193,7 @@
       "instance_id": 102967035,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "New Wave"
         ],
         "labels": [
@@ -14250,7 +14250,7 @@
       "instance_id": 413837323,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Synth-pop",
           "Indie Rock"
@@ -14307,7 +14307,7 @@
       "instance_id": 413849311,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Industrial",
           "Punk",
           "Avantgarde"
@@ -14365,7 +14365,7 @@
       "instance_id": 413833297,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Shoegaze",
           "Ambient"
         ],
@@ -14452,7 +14452,7 @@
       "instance_id": 102967090,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Downtempo",
           "Ambient",
           "Score"
@@ -14524,7 +14524,7 @@
       "instance_id": 413832907,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Experimental"
         ],
@@ -14595,7 +14595,7 @@
       "instance_id": 413834592,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Indie Rock"
         ],
@@ -14651,7 +14651,7 @@
       "instance_id": 413839349,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Lo-Fi",
           "Abstract",
           "Experimental",
@@ -14730,7 +14730,7 @@
       "instance_id": 102967021,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Shoegaze",
           "Electro",
           "Indie Rock"
@@ -14787,7 +14787,7 @@
       "instance_id": 413857446,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "Ninja Tune",
@@ -14840,7 +14840,7 @@
       "instance_id": 413855819,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Folk Rock",
           "Indie Rock"
         ],
@@ -14905,7 +14905,7 @@
       "instance_id": 413812777,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Folk Rock"
         ],
         "labels": [
@@ -14960,7 +14960,7 @@
       "instance_id": 413855694,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Country Rock",
           "Indie Rock"
@@ -15026,7 +15026,7 @@
       "instance_id": 413855490,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Country Rock",
           "Indie Rock"
         ],
@@ -15092,7 +15092,7 @@
       "instance_id": 413855615,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Folk Rock"
         ],
@@ -15165,7 +15165,7 @@
       "instance_id": 102967005,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Experimental",
           "Indie Rock"
         ],
@@ -15223,7 +15223,7 @@
       "instance_id": 102967020,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Indie Rock"
         ],
@@ -15281,7 +15281,7 @@
       "instance_id": 413832193,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Conscious"
         ],
         "labels": [
@@ -15338,7 +15338,7 @@
       "instance_id": 413853561,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "African"
         ],
         "labels": [
@@ -15395,7 +15395,7 @@
       "instance_id": 413835207,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "African"
         ],
         "labels": [
@@ -15451,7 +15451,7 @@
       "instance_id": 102967073,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Punk"
         ],
         "labels": [
@@ -15508,7 +15508,7 @@
       "instance_id": 413811610,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Synth-pop",
           "Experimental"
         ],
@@ -15565,7 +15565,7 @@
       "instance_id": 102967062,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Lo-Fi"
         ],
         "labels": [
@@ -15620,7 +15620,7 @@
       "instance_id": 413816857,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Folk Rock"
         ],
@@ -15677,7 +15677,7 @@
       "instance_id": 259665160,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Glam"
         ],
         "labels": [
@@ -15733,7 +15733,7 @@
       "instance_id": 413850012,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Abstract",
           "Post Rock",
           "Ambient"
@@ -15799,7 +15799,7 @@
       "instance_id": 413815153,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Leftfield",
           "Electro",
           "Hip Hop",
@@ -15867,7 +15867,7 @@
       "instance_id": 102966949,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Leftfield",
           "Trip Hop",
           "Lo-Fi",
@@ -15937,7 +15937,7 @@
       "instance_id": 413615277,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Art Rock",
           "Avantgarde",
           "Downtempo",
@@ -16006,7 +16006,7 @@
       "instance_id": 259665718,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Glam",
           "Classic Rock",
           "Art Rock"
@@ -16075,7 +16075,7 @@
       "instance_id": 259665358,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Folk Rock",
           "Glam"
         ],
@@ -16150,7 +16150,7 @@
       "instance_id": 259665557,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Glam",
           "Pop Rock"
         ],
@@ -16232,7 +16232,7 @@
       "instance_id": 413811273,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Punk",
           "Post-Punk",
           "Alternative Rock"
@@ -16288,7 +16288,7 @@
       "instance_id": 130729659,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -16353,7 +16353,7 @@
       "instance_id": 102967011,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Abstract",
           "Experimental"
         ],
@@ -16411,7 +16411,7 @@
       "instance_id": 102966982,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "Pickwick",
@@ -16474,7 +16474,7 @@
       "instance_id": 413840806,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Psychedelic Rock",
           "Prog Rock",
           "Ethereal"
@@ -16541,7 +16541,7 @@
       "instance_id": 413810838,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Pop"
         ],
         "labels": [
@@ -16596,7 +16596,7 @@
       "instance_id": 413811261,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Pop"
         ],
         "labels": [
@@ -16651,7 +16651,7 @@
       "instance_id": 413813474,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Future Jazz",
           "Deep House",
           "Ambient"
@@ -16717,7 +16717,7 @@
       "instance_id": 102967013,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "Polyvinyl Record Company",
@@ -16772,7 +16772,7 @@
       "instance_id": 257185499,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -16827,7 +16827,7 @@
       "instance_id": 413830270,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -16883,7 +16883,7 @@
       "instance_id": 413613602,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Pop"
         ],
         "labels": [
@@ -16938,7 +16938,7 @@
       "instance_id": 102966996,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Garage Rock"
         ],
         "labels": [
@@ -16993,7 +16993,7 @@
       "instance_id": 102967029,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -17056,7 +17056,7 @@
       "instance_id": 413618853,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Soul",
           "Funk"
         ],
@@ -17121,7 +17121,7 @@
       "instance_id": 102966976,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "New Wave",
           "Art Rock",
           "Pop Rock",
@@ -17180,7 +17180,7 @@
       "instance_id": 413835327,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Contemporary Jazz"
         ],
         "labels": [
@@ -17237,7 +17237,7 @@
       "instance_id": 413844419,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "RCA Victor",
@@ -17301,7 +17301,7 @@
       "instance_id": 102966953,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -17363,7 +17363,7 @@
       "instance_id": 102967084,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock"
         ],
         "labels": [
@@ -17425,7 +17425,7 @@
       "instance_id": 413831846,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "RCA",
@@ -17486,7 +17486,7 @@
       "instance_id": 413837584,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Rock & Roll"
         ],
         "labels": [
@@ -17551,7 +17551,7 @@
       "instance_id": 102966967,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Classic Rock",
           "Glam"
         ],
@@ -17614,7 +17614,7 @@
       "instance_id": 413614814,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Folk Rock",
           "Trip Hop",
           "Experimental"
@@ -17673,7 +17673,7 @@
       "instance_id": 413614827,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Psychedelic Rock",
           "Downtempo",
           "Experimental"
@@ -17732,7 +17732,7 @@
       "instance_id": 413614822,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Psychedelic Rock",
           "Downtempo",
           "Experimental"
@@ -17800,7 +17800,7 @@
       "instance_id": 413838100,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Shoegaze"
         ],
         "labels": [
@@ -17855,7 +17855,7 @@
       "instance_id": 413857407,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Folk Rock",
           "Hard Rock"
         ],
@@ -17911,7 +17911,7 @@
       "instance_id": 102967074,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Nu Metal"
         ],
         "labels": [
@@ -17968,7 +17968,7 @@
       "instance_id": 102967053,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Big Band"
         ],
         "labels": [
@@ -18023,7 +18023,7 @@
       "instance_id": 413857735,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Classic Rock"
         ],
         "labels": [
@@ -18077,7 +18077,7 @@
       "instance_id": 102966973,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Folk Rock",
           "Country Rock",
           "Classic Rock"
@@ -18135,7 +18135,7 @@
       "instance_id": 102967079,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Classic Rock",
           "Prog Rock"
         ],
@@ -18192,7 +18192,7 @@
       "instance_id": 413830344,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Noise",
           "Shoegaze"
         ],
@@ -18257,7 +18257,7 @@
       "instance_id": 102966979,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Pop Rock",
           "Rock & Roll"
         ],
@@ -18323,7 +18323,7 @@
       "instance_id": 102966980,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Big Band",
           "Vocal",
           "Easy Listening"
@@ -18390,7 +18390,7 @@
       "instance_id": 413852649,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Garage Rock",
           "Art Rock",
           "Classic Rock"
@@ -18455,7 +18455,7 @@
       "instance_id": 102967033,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "New Wave"
         ],
@@ -18531,7 +18531,7 @@
       "instance_id": 413853726,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "Roc-A-Fella Records",
@@ -18585,7 +18585,7 @@
       "instance_id": 102966966,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Classic Rock"
         ],
         "labels": [
@@ -18640,7 +18640,7 @@
       "instance_id": 102966984,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Classic Rock"
         ],
         "labels": [
@@ -18694,7 +18694,7 @@
       "instance_id": 102967032,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Classic Rock"
         ],
         "labels": [
@@ -18749,7 +18749,7 @@
       "instance_id": 102966957,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Classic Rock"
         ],
         "labels": [
@@ -18804,7 +18804,7 @@
       "instance_id": 413840016,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -18858,7 +18858,7 @@
       "instance_id": 413814058,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Pop Rap",
           "Conscious"
         ],
@@ -18947,7 +18947,7 @@
       "instance_id": 257185314,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Lo-Fi"
         ],
         "labels": [
@@ -19003,7 +19003,7 @@
       "instance_id": 413840581,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Folk Rock",
           "Indie Rock"
         ],
@@ -19059,7 +19059,7 @@
       "instance_id": 413816645,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -19113,7 +19113,7 @@
       "instance_id": 257186840,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "Saddle Creek",
@@ -19166,7 +19166,7 @@
       "instance_id": 413856253,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Noise",
           "Goth Rock",
           "Experimental",
@@ -19228,7 +19228,7 @@
       "instance_id": 413846027,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Folk Rock",
           "Indie Rock"
         ],
@@ -19285,7 +19285,7 @@
       "instance_id": 413833588,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Lo-Fi",
           "Indie Rock",
           "Folk Rock"
@@ -19341,7 +19341,7 @@
       "instance_id": 413846119,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Country Rock",
           "Southern Rock"
         ],
@@ -19398,7 +19398,7 @@
       "instance_id": 413618724,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -19462,7 +19462,7 @@
       "instance_id": 413850462,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Art Rock",
           "Leftfield"
         ],
@@ -19528,7 +19528,7 @@
       "instance_id": 102966948,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "New Wave",
           "Pop Rock",
           "Funk"
@@ -19594,7 +19594,7 @@
       "instance_id": 259664821,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Downtempo",
           "Ambient"
         ],
@@ -19652,7 +19652,7 @@
       "instance_id": 413838904,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Ambient",
           "IDM",
           "Noise",
@@ -19710,7 +19710,7 @@
       "instance_id": 102967009,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Soundtrack",
           "Avantgarde",
           "Indie Rock"
@@ -19767,7 +19767,7 @@
       "instance_id": 257185215,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Future Jazz",
           "Downtempo"
         ],
@@ -19830,7 +19830,7 @@
       "instance_id": 413845128,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Stoner Rock",
           "Doom Metal"
         ],
@@ -19889,7 +19889,7 @@
       "instance_id": 413616487,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Krautrock",
           "Experimental",
           "Avantgarde"
@@ -19956,7 +19956,7 @@
       "instance_id": 413616561,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Krautrock"
         ],
         "labels": [
@@ -20020,7 +20020,7 @@
       "instance_id": 413616639,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Krautrock",
           "Psychedelic Rock"
         ],
@@ -20086,7 +20086,7 @@
       "instance_id": 413834707,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Shoegaze",
           "Indie Rock"
         ],
@@ -20159,7 +20159,7 @@
       "instance_id": 413617282,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Gangsta"
         ],
         "labels": [
@@ -20233,7 +20233,7 @@
       "instance_id": 102966954,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Rhythm & Blues",
           "Funk"
         ],
@@ -20289,7 +20289,7 @@
       "instance_id": 413839075,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "RnB/Swing",
           "Electro",
           "House"
@@ -20356,7 +20356,7 @@
       "instance_id": 130683680,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "Stones Throw Records",
@@ -20426,7 +20426,7 @@
       "instance_id": 130683575,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Instrumental"
         ],
         "labels": [
@@ -20481,7 +20481,7 @@
       "instance_id": 257186617,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Ethereal",
           "Indie Rock"
         ],
@@ -20538,7 +20538,7 @@
       "instance_id": 413853229,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Downtempo",
           "Synth-pop",
           "Indie Pop"
@@ -20595,7 +20595,7 @@
       "instance_id": 413844560,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Punk",
           "Indie Rock"
         ],
@@ -20652,7 +20652,7 @@
       "instance_id": 413812259,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "Sub Pop",
@@ -20708,7 +20708,7 @@
       "instance_id": 413811351,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Doom Metal",
           "Experimental",
           "Noise"
@@ -20765,7 +20765,7 @@
       "instance_id": 413849218,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Emo"
         ],
         "labels": [
@@ -20820,7 +20820,7 @@
       "instance_id": 102966964,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -20874,7 +20874,7 @@
       "instance_id": 413837677,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Noise",
           "Indie Rock",
           "Experimental"
@@ -20930,7 +20930,7 @@
       "instance_id": 102967052,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Emo"
         ],
@@ -20987,7 +20987,7 @@
       "instance_id": 102966992,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Emo"
         ],
@@ -21046,7 +21046,7 @@
       "instance_id": 102967015,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Folk"
         ],
@@ -21103,7 +21103,7 @@
       "instance_id": 102967040,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Ethereal"
         ],
@@ -21159,7 +21159,7 @@
       "instance_id": 413812199,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Folk Rock",
           "Country Rock",
           "Indie Rock",
@@ -21216,7 +21216,7 @@
       "instance_id": 413843829,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Abstract",
           "Conscious",
           "Experimental"
@@ -21288,7 +21288,7 @@
       "instance_id": 257186586,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Ethereal",
           "Indie Pop"
         ],
@@ -21346,7 +21346,7 @@
       "instance_id": 413812530,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -21401,7 +21401,7 @@
       "instance_id": 413614206,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Dream Pop"
         ],
@@ -21458,7 +21458,7 @@
       "instance_id": 413812643,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Folk Rock"
         ],
@@ -21513,7 +21513,7 @@
       "instance_id": 413858538,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Country Rock",
           "Indie Rock",
           "Alternative Rock",
@@ -21571,7 +21571,7 @@
       "instance_id": 102966998,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Folk Rock",
           "Indie Rock"
         ],
@@ -21628,7 +21628,7 @@
       "instance_id": 130683431,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -21698,7 +21698,7 @@
       "instance_id": 413814535,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Soul"
         ],
         "labels": [
@@ -21762,7 +21762,7 @@
       "instance_id": 413842387,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Experimental"
         ],
@@ -21826,7 +21826,7 @@
       "instance_id": 102966960,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Post Rock"
         ],
         "labels": [
@@ -21896,7 +21896,7 @@
       "instance_id": 413615072,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Abstract",
           "Leftfield",
           "Experimental"
@@ -21958,7 +21958,7 @@
       "instance_id": 102966961,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Post Rock"
         ],
         "labels": [
@@ -22012,7 +22012,7 @@
       "instance_id": 102967087,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -22075,7 +22075,7 @@
       "instance_id": 413813093,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Techno",
           "IDM",
           "Deep House",
@@ -22134,7 +22134,7 @@
       "instance_id": 413813242,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Techno",
           "Deep House",
           "Experimental",
@@ -22192,7 +22192,7 @@
       "instance_id": 413849118,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Emo",
           "Alternative Rock"
         ],
@@ -22250,7 +22250,7 @@
       "instance_id": 102967063,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Rock & Roll",
           "Indie Rock",
           "Blues Rock"
@@ -22324,7 +22324,7 @@
       "instance_id": 102967014,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Experimental",
           "Alternative Rock"
         ],
@@ -22396,7 +22396,7 @@
       "instance_id": 413834503,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock"
         ],
         "labels": [
@@ -22451,7 +22451,7 @@
       "instance_id": 130683615,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Conscious"
         ],
         "labels": [
@@ -22523,7 +22523,7 @@
       "instance_id": 413832304,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Jazzy Hip-Hop",
           "Conscious"
         ],
@@ -22596,7 +22596,7 @@
       "instance_id": 413832471,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Conscious"
         ],
         "labels": [
@@ -22668,7 +22668,7 @@
       "instance_id": 413846224,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Emo",
           "Indie Rock"
         ],
@@ -22725,7 +22725,7 @@
       "instance_id": 102966958,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Math Rock",
           "Post Rock"
@@ -22782,7 +22782,7 @@
       "instance_id": 102966951,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Math Rock",
           "Post Rock"
@@ -22846,7 +22846,7 @@
       "instance_id": 102967039,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "Trans Records (4)",
@@ -22906,7 +22906,7 @@
       "instance_id": 413850096,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Post Rock"
         ],
         "labels": [
@@ -22969,7 +22969,7 @@
       "instance_id": 413615675,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -23024,7 +23024,7 @@
       "instance_id": 130683705,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -23078,7 +23078,7 @@
       "instance_id": 102967066,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock"
         ],
         "labels": [
@@ -23143,7 +23143,7 @@
       "instance_id": 413853471,
       "rating": 0,
       "basic_information": {
-        "styles": [],
+        "subgenres": [],
         "labels": [
           {
             "name": "Verve Records",
@@ -23218,7 +23218,7 @@
       "instance_id": 102967070,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Emo",
           "Punk"
@@ -23275,7 +23275,7 @@
       "instance_id": 413614036,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -23344,7 +23344,7 @@
       "instance_id": 413845655,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Grunge",
           "Indie Rock"
@@ -23403,7 +23403,7 @@
       "instance_id": 413817069,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Garage Rock"
         ],
         "labels": [
@@ -23467,7 +23467,7 @@
       "instance_id": 413615751,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -23523,7 +23523,7 @@
       "instance_id": 102966977,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock"
         ],
         "labels": [
@@ -23579,7 +23579,7 @@
       "instance_id": 130683466,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -23634,7 +23634,7 @@
       "instance_id": 413615955,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -23695,7 +23695,7 @@
       "instance_id": 102967069,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Garage Rock",
           "Indie Rock"
         ],
@@ -23752,7 +23752,7 @@
       "instance_id": 102967076,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -23808,7 +23808,7 @@
       "instance_id": 413844081,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Punk"
         ],
         "labels": [
@@ -23880,7 +23880,7 @@
       "instance_id": 413616025,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -23957,7 +23957,7 @@
       "instance_id": 413838675,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Ambient",
           "Experimental"
         ],
@@ -24014,7 +24014,7 @@
       "instance_id": 413812911,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Abstract",
           "Future Jazz",
           "IDM",
@@ -24073,7 +24073,7 @@
       "instance_id": 102967049,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -24127,7 +24127,7 @@
       "instance_id": 257185969,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Breakbeat",
           "IDM",
           "Downtempo"
@@ -24184,7 +24184,7 @@
       "instance_id": 413812963,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Future Jazz"
         ],
         "labels": [
@@ -24241,7 +24241,7 @@
       "instance_id": 413857933,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Abstract",
           "Indie Pop"
         ],
@@ -24297,7 +24297,7 @@
       "instance_id": 259664901,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Downtempo",
           "Ambient",
           "IDM",
@@ -24362,7 +24362,7 @@
       "instance_id": 413839534,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Punk"
         ],
@@ -24421,7 +24421,7 @@
       "instance_id": 413839625,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Rock & Roll",
           "Punk",
           "Indie Rock",
@@ -24479,7 +24479,7 @@
       "instance_id": 413839759,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -24532,7 +24532,7 @@
       "instance_id": 413814721,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Indie Pop",
           "Experimental",
@@ -24617,7 +24617,7 @@
       "instance_id": 413859217,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Art Rock",
           "Indie Rock"
         ],
@@ -24688,7 +24688,7 @@
       "instance_id": 413852463,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Indie Rock"
         ],
@@ -24744,7 +24744,7 @@
       "instance_id": 413831609,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Contemporary R&B",
           "Funk"
         ],
@@ -24801,7 +24801,7 @@
       "instance_id": 413852599,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -24856,7 +24856,7 @@
       "instance_id": 413852537,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Pop Rock",
           "Indie Pop",
           "Indie Rock"
@@ -24913,7 +24913,7 @@
       "instance_id": 102967057,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "IDM",
           "Indie Rock",
           "Glitch",
@@ -24972,7 +24972,7 @@
       "instance_id": 413841777,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Indie Rock"
         ],
@@ -25029,7 +25029,7 @@
       "instance_id": 413842268,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Experimental"
         ],
@@ -25087,7 +25087,7 @@
       "instance_id": 102966995,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -25150,7 +25150,7 @@
       "instance_id": 102967003,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Instrumental",
           "Noise",
           "Post Rock",
@@ -25216,7 +25216,7 @@
       "instance_id": 413839268,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Shoegaze",
           "Lo-Fi"
@@ -25272,7 +25272,7 @@
       "instance_id": 413829929,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock"
         ],
         "labels": [
@@ -25328,7 +25328,7 @@
       "instance_id": 413849476,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Art Rock",
           "Avantgarde",
           "Experimental"
@@ -25384,7 +25384,7 @@
       "instance_id": 413849782,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Noise",
           "Post Rock",
           "Experimental"
@@ -25440,7 +25440,7 @@
       "instance_id": 413849877,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Post Rock",
           "Noise",
           "Experimental"
@@ -25503,7 +25503,7 @@
       "instance_id": 413849646,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Alternative Rock",
           "Folk Rock",
           "Industrial"
@@ -25562,7 +25562,7 @@
       "instance_id": 413849731,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Ambient",
           "Post Rock",
           "Experimental"
@@ -25636,7 +25636,7 @@
       "instance_id": 413829483,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Indie Rock",
           "Downtempo"
         ],
@@ -25693,7 +25693,7 @@
       "instance_id": 413829005,
       "rating": 0,
       "basic_information": {
-        "styles": [
+        "subgenres": [
           "Downtempo",
           "Indie Pop",
           "UK Garage"

@@ -16,7 +16,9 @@ export default {
 </script>
 
 <template>
-  <div class="h-screen w-screen fixed z-50 bg-black inset-0 flex flex-col items-center pt-16 px-8 overflow-y-scroll">
+  <div
+    :class="options.length > 0 ? 'opacity-100 transition duration-300 ease-in-out' : 'opacity-0 pointer-events-none'"
+    class="h-screen w-screen fixed z-50 bg-black inset-0 flex flex-col items-center pt-16 px-8 overflow-y-scroll">
     <h2 class="mb-16 text-2xl">searching by {{ type }}, aren't you cool? <a class="ml-6" @click="$emit('applyFilter', '')">nahh</a></h2>
     <ul class="flex flex-row flex-wrap items-stretch justify-center">
       <li v-for="[option, count] in options" :key="option" class="mb-6 mx-3">
