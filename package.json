@@ -14,10 +14,8 @@
     "@fullhuman/postcss-purgecss": "^2.1.0",
     "core-js": "^3.6.4",
     "tailwindcss": "^1.2.0",
-    "tmi.js": "^1.5.0",
     "vue": "^2.6.11",
     "vue-router": "^3.1.5",
-    "vue-twitch-player": "^1.0.8",
     "vuex": "^3.1.2"
   },
   "devDependencies": {
