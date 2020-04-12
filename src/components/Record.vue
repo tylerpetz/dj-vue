@@ -12,6 +12,6 @@ export default {
     <div class="w-full pt-full bg-green-700 relative mb-2 shadow-lg transform transition-transform duration-150 scale-100 hover:scale-105 cursor-pointer">
       <img :src="record.coverImage" class="block absolute inset-0 object-cover w-full h-full" />
     </div>
-    <h4 class="text-xs">{{ record.artists[0] }} - {{ record.title }}</h4>
+    <h4 class="text-xs">{{ record.artist }} - {{ record.title }}</h4>
   </div>
 </template>

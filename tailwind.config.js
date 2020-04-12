@@ -117,7 +117,8 @@ module.exports = {
       wait: 'wait',
       text: 'text',
       move: 'move',
-      'not-allowed': 'not-allowed'
+      'not-allowed': 'not-allowed',
+      crosshair: 'crosshair'
     },
     fill: {
       current: 'currentColor'

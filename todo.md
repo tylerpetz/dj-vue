@@ -1,4 +1,3 @@
-* make hover animation cool on record list
 * add sorting
 * add search
 * add multi filters
