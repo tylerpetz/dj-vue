@@ -61,7 +61,7 @@ export default {
       return this.releases.map(record => {
         const { artists, cover_image: coverImage, genres, id, labels, subgenres, title, year } = record.basic_information
         return {
-          artist: artists.map(artist => artist.name).join(' &amp; '),
+          artist: artists.map(artist => artist.name).join(' &amp; ').replace(/ *\([^)]*\) */g, ''),
           coverImage,
           genres,
           id,
@@ -73,6 +73,8 @@ export default {
       })
     },
     filteredRecords () {
+      const cleanOutput = (input) => input.toLowerCase().replace(/\W/g, '')
+
       // remove dupes
       let records = this.records.filter((record, index, arr) => arr.findIndex(r => (r.id === record.id)) === index)
       // return full list of records if no sorts or filters
@@ -84,10 +86,11 @@ export default {
       // apply selected sort
       if (this.selectedSort.type) {
         records = records.sort((a, b) => {
-          if (this.selectedSort.direction === 'asc') {
-            return a[this.selectedSort.type] > b[this.selectedSort.type] ? 1 : -1
-          }
-          return a[this.selectedSort.type] < b[this.selectedSort.type] ? 1 : -1
+          const r1 = this.selectedSort.type !== 'year' ? cleanOutput(a[this.selectedSort.type]) : a[this.selectedSort.type]
+          const r2 = this.selectedSort.type !== 'year' ? cleanOutput(b[this.selectedSort.type]) : b[this.selectedSort.type]
+
+          if (this.selectedSort.direction === 'asc') return r1 > r2 ? 1 : -1
+          return r1 < r2 ? 1 : -1
         })
       }
       return records
@@ -187,6 +190,6 @@ export default {
         <Record :record="record" :key="record.id" @itemSelected="$emit('itemSelected', $event)" />
       </template>
     </div>
-    <SelectModal :options="options" :type="selectedFilter.type" @applyFilter="applyFilter" />
+    <SelectModal :options="options" :type="selectingFilter" @applyFilter="applyFilter" />
   </div>
 </template>
