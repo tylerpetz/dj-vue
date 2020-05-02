@@ -15,7 +15,7 @@ export default {
     <div class="flex items-center justify-center h-12 w-12 rounded-full bg-dark mr-4 ease-out duration-150 transition-transform transform shadow" :class="hoverLogo ? '-translate-x-4' : '-translate-x-8'">
       <div class="flex items-center justify-center h-6 w-6 rounded-full bg-black">
         <div class="flex items-center justify-center h-4 w-4 rounded-full bg-green-700">
-          <div class="flex items-center justify-center h-1 w-1 rounded-full bg-blue-400" />
+          <div class="block h-1 w-1 rounded-full bg-blue-400" />
         </div>
       </div>
     </div>

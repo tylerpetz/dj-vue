@@ -1,4 +1,3 @@
-* add sorting
 * add search
 * add multi filters
 * ability to clear search/filters/sorts
